@@ -8,6 +8,9 @@
 - [Gary Gale: “Dear OSM, it’s time to get your finger out”](http://geohipster.com/2015/04/27/gary-gale-dear-osm-its-time-to-get-your-finger-out/)
 - [Is OSM business unfriendly?](http://www.openstreetmap.org/user/SimonPoole/diary/34883)
 
+### Participating in the OSM community
+- [Jochen Topf: How Sausages are Made; how the OSM community works](http://stateofthemap.us/how-sausages-are-made/)
+
 ### Cloudmade: what year is this?
 - [Cloudmade's OpenStreetMap](http://techcrunch.com/2010/04/17/cloudmades-openstreetmap-surges-on-wikipedia-like-user-passion/)
 - [iOS SDK](http://blog.cloudmade.com/2009/03/19/bring-cloudmade-maps-to-your-iphone-application/)
